@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme Integration for WooCommerce\n"
+"Report-Msgid-Bugs-To: https://support.webmandesign.eu\n"
+"POT-Creation-Date: 2021-03-13 17:31+0100\n"
+"PO-Revision-Date: 2021-03-13 17:32+0100\n"
+"Last-Translator: Oliver Juhas, WebMan Design\n"
+"Language-Team: WebMan Design\n"
+"Language: sk_SK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: improving-search-form-accessibility.php:47
+msgctxt "label"
+msgid "Search for:"
+msgstr "Vyhľadaj:"
+
+#: improving-search-form-accessibility.php:48
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Hľadaj &hellip;"
+
+#: improving-search-form-accessibility.php:49
+msgctxt "submit button"
+msgid "Search"
+msgstr "Hľadať"
+
+#, php-format
+#~ msgid ""
+#~ "The Theme Integration for WooCommerce plugin requires at least WordPress "
+#~ "version %1$s. You are running version %2$s."
+#~ msgstr ""
+#~ "Plugin Theme Integration for WooCommerce vyžaduje WordPress aspoň vo "
+#~ "verzii %1$s a vy používate verziu %2$s."
+
+#, php-format
+#~ msgid ""
+#~ "The Theme Integration for WooCommerce plugin requires at least PHP "
+#~ "version %1$s. You are running version %2$s."
+#~ msgstr ""
+#~ "Plugin Theme Integration for WooCommerce vyžaduje PHP aspoň vo verzii "
+#~ "%1$s a vy používate verziu %2$s."
+
+#~ msgid "Please upgrade and try again."
+#~ msgstr "Aktualizujte a skúste to znova."
+
+#~ msgid ""
+#~ "Your theme seems to claim WooCommerce integration already. The "
+#~ "WooCommerce Theme Integration plugin is not needed."
+#~ msgstr ""
+#~ "Zdá sa, že vaša téma už obsahuje integráciu s pluginom WooCommerce. "
+#~ "Plugin Theme Integration for WooCommerce nie je potrebné použiť."
+
+#~ msgid ""
+#~ "Sorry, the Theme Integration for WooCommerce plugin will not work with "
+#~ "your theme. Please check WordPress themes by WebManDesign.eu."
+#~ msgstr ""
+#~ "Ospravedlňujeme sa, plugin Theme Integration for WooCommerce nebude "
+#~ "fungovať s vašou témou. Skúste použiť WordPress tému od WebManDesign.eu."
+
+#~ msgid "Shop category"
+#~ msgstr "Kategória produktov"
+
+#~ msgid "Shop now &rarr;"
+#~ msgstr "Nakupovať &rarr;"
+
+#~ msgid "Products Navigation"
+#~ msgstr "Navigácia produktov"
+
+#~ msgctxt "Pagination text (visible): previous."
+#~ msgid "&laquo;"
+#~ msgstr "&laquo;"
+
+#~ msgctxt "Pagination text (hidden): previous."
+#~ msgid "Previous page"
+#~ msgstr "Predchádzajúca stránka"
+
+#~ msgctxt "Pagination text (hidden): next."
+#~ msgid "Next page"
+#~ msgstr "Nasledujúca stránka"
+
+#~ msgctxt "Pagination text (visible): next."
+#~ msgid "&raquo;"
+#~ msgstr "&raquo;"
+
+#~ msgid "List of products"
+#~ msgstr "Zoznam produktov"
+
+#~ msgid "Cart content"
+#~ msgstr "Obsah košíka"
+
+#, php-format
+#~ msgctxt "Shopping cart items count."
+#~ msgid "(%d item)"
+#~ msgid_plural "(%d items)"
+#~ msgstr[0] "(%d položka)"
+#~ msgstr[1] "(%d položky)"
+#~ msgstr[2] "(%d položiek)"
+
+#~ msgid "Use your discount coupon code here"
+#~ msgstr "Použite svoj zľavový kupón"
+
+#~ msgid "Continue Shopping"
+#~ msgstr "Pokračovať v nákupe"
+
+#~ msgid "Checkout"
+#~ msgstr "Pokladňa"
+
+#~ msgid "More details&hellip;"
+#~ msgstr "Viac informácií&hellip;"
