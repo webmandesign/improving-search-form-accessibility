@@ -5,7 +5,7 @@ Author URI:        https://www.webmandesign.eu
 Plugin URI:        https://www.webmandesign.eu/portfolio/improving-search-form-accessibility-wordpress-plugin/
 Requires at least: 5.0
 Tested up to:      5.7
-Stable tag:        1.0.0
+Stable tag:        1.0.1
 License:           GNU General Public License v3
 License URI:       http://www.gnu.org/licenses/gpl-3.0.html
 Tags:              search, form, accessibility
@@ -36,5 +36,5 @@ Please see the [`changelog.md` file](https://github.com/webmandesign/improving-s
 
 == Upgrade Notice ==
 
-= 1.0.0 =
-Initial release.
+= 1.0.1 =
+Using `wp_unique_id` instead of `uniqid`.

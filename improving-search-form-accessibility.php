@@ -3,7 +3,7 @@
  * Plugin Name:  Improving Search Form Accessibility
  * Plugin URI:   https://www.webmandesign.eu/portfolio/improving-search-form-accessibility-wordpress-plugin/
  * Description:  Improves search form accessibility by associating search field label explicitly instead of implicitly.
- * Version:      1.0.0
+ * Version:      1.0.1
  * Author:       WebMan Design, Oliver Juhas
  * Author URI:   https://www.webmandesign.eu/
  * License:      GNU General Public License v3
@@ -39,7 +39,7 @@ function isfa_get_search_form( $form, $args ) {
 			$aria_label = '';
 		}
 
-		$id = uniqid();
+		$id = wp_unique_id( 'search-form-text-' );
 
 
 	// Output
