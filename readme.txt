@@ -1,12 +1,14 @@
 === Improving Search Form Accessibility ===
+
 Contributors:      webmandesign
-Donate link:       https://www.webmandesign.eu
+Donate link:       https://www.webmandesign.eu/contact/#donation
 Author URI:        https://www.webmandesign.eu
 Plugin URI:        https://www.webmandesign.eu/portfolio/improving-search-form-accessibility-wordpress-plugin/
-Requires at least: 5.0
-Tested up to:      5.7
+Requires at least: 6.0
+Tested up to:      6.7
+Requires PHP:      7.0
 Stable tag:        1.0.1
-License:           GNU General Public License v3
+License:           GPL-3.0-or-later
 License URI:       http://www.gnu.org/licenses/gpl-3.0.html
 Tags:              search, form, accessibility
 

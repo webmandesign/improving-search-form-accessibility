@@ -6,10 +6,13 @@
  * Version:      1.0.1
  * Author:       WebMan Design, Oliver Juhas
  * Author URI:   https://www.webmandesign.eu/
- * License:      GNU General Public License v3
+ * License:      GPL-3.0-or-later
  * License URI:  http://www.gnu.org/licenses/gpl-3.0.txt
  * Text Domain:  improving-search-form-accessibility
  * Domain Path:  /languages
+ *
+ * Requires PHP:       7.0
+ * Requires at least:  6.0
  *
  * @copyright  WebMan Design, Oliver Juhas
  * @license    GPL-3.0, https://www.gnu.org/licenses/gpl-3.0.html
